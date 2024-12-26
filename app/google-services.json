@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "941719651907",
+    "project_id": "baker-s-bakery-backend",
+    "storage_bucket": "baker-s-bakery-backend.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941719651907:android:6333ab1ea9094e432a36f6",
+        "android_client_info": {
+          "package_name": "com.example.bakersbakery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnUkXX4zEz60E77MEmW6oJqv18TBoazF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
